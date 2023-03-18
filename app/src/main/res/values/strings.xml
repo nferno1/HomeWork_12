@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork_12</string>
+    <string name="saveButton">Сохранить</string>
+    <string name="clearButton">Очистить</string>
+</resources>
